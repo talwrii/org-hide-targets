@@ -37,6 +37,8 @@ To enable by default add to `org-mode-hook`.
 
 # License
 
+This code is distributed under an [MIT license](LICENSE).
+
 # See also
 
 * [Emacs point registers](https://www.gnu.org/software/emacs/manual/html_node/emacs/Position-Registers.html) allows one to session-transiently save and jump to points in a file. These may be identified by single character identifiers. These may be [persisted across session by desktop.el](https://emacs.stackexchange.com/questions/16919/how-can-i-get-sessions-el-to-save-my-registers).
@@ -44,4 +46,4 @@ To enable by default add to `org-mode-hook`.
 in the [fringe](https://www.gnu.org/software/emacs/manual/html_node/emacs/Fringes.html) as well [as inline](https://github.com/roman/evil-visual-mark-mode). [These can also be persisted by desktop.el](https://github.com/emacs-evil/evil/issues/674)
 * Bastian Bechtold's [annotate.el](https://github.com/bastibe/annotate.el) allows persistable annotations of arbitrary files without modifying underlying files.
 * Jo Odland's [bm.el](https://github.com/joodland/bm) allows persistable bookmarks in arbitrary files without modifying the underlying file
-* [A Generative Rhetoric of the Paragraph](https://doi.org/10.2307/355728), Francis Christensen  - describes what I would describe as a "tree model" of paragraph analysis. This [blog](http://bardiac.blogspot.com/2005/12/writing-basics-paragraph-analysis.html) discusses this method.
+* [A Generative Rhetoric of the Paragraph](https://doi.org/10.2307/355728), Francis Christensen  - describes what Tal Wrii would describe as a "tree model" of paragraph analysis. This [blog](http://bardiac.blogspot.com/2005/12/writing-basics-paragraph-analysis.html) discusses this method.
